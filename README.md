@@ -6,7 +6,16 @@ Fundamental-Animations Presentations, Tutorials and Project
 - Score : 20 / 20
 - Semester : 8
 
-## Project Images
+## Projects Images
+#### 1. Teaching Project
+<div align="center">
+  <img src="./Assets/5.png" width="48%"/>
+  <img src="./Assets/6.png" width="48%"/>
+  <img src="./Assets/7.png" width="48%"/>
+  <img src="./Assets/8.png" width="48%"/>
+</div>
+
+#### 2. Main Project (Video Available [Here](./Assets/1.mp4))
 <div align="center">
   <img src="./Assets/1.png" width="48%"/>
   <img src="./Assets/2.png" width="48%"/>
@@ -14,5 +23,4 @@ Fundamental-Animations Presentations, Tutorials and Project
   <img src="./Assets/4.png" width="48%"/>
 </div>
 
-![Demo](./Assets/1.mp4)
-![Demo](./Assets/2.mp4)
+#### 3. Presentation (Video Available [Here](./Assets/2.mp4))
