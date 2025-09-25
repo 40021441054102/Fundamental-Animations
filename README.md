@@ -14,8 +14,5 @@ Fundamental-Animations Presentations, Tutorials and Project
   <img src="./Assets/4.png" width="48%"/>
 </div>
 
-<div align="center">
-  <a href="./Assets/1.mp4">
-    <img src="./Assets/2.png" width="70%" alt="Watch the video"/>
-  </a>
-</div>
+![Demo](./Assets/1.mp4)
+![Demo](./Assets/2.mp4)
