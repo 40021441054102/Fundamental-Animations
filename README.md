@@ -8,11 +8,14 @@ Fundamental-Animations Presentations, Tutorials and Project
 
 ## Project Images
 <div align="center">
-  <video src="./Assets/2.mp4" controls width="70%"></video>
-</div>  
-<div align="center">
   <img src="./Assets/1.png" width="48%"/>
   <img src="./Assets/2.png" width="48%"/>
   <img src="./Assets/3.png" width="48%"/>
   <img src="./Assets/4.png" width="48%"/>
+</div>
+
+<div align="center">
+  <a href="./Assets/1.mp4">
+    <img src="./Assets/2.png" width="70%" alt="Watch the video"/>
+  </a>
 </div>
