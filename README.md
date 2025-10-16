@@ -16,6 +16,8 @@ Fundamental-Animations Presentations, Tutorials and Project
 </div>
 
 #### 2. Main Project (Video Available [Here](./Assets/1.mp4))
+https://github.com/user-attachments/assets/04a5e2b9-ec5e-40c6-9b18-e897a043af08
+
 <div align="center">
   <img src="./Assets/1.png" width="48%"/>
   <img src="./Assets/2.png" width="48%"/>
@@ -24,3 +26,4 @@ Fundamental-Animations Presentations, Tutorials and Project
 </div>
 
 #### 3. Presentation (Video Available [Here](./Assets/2.mp4))
+https://github.com/user-attachments/assets/3fc8eff9-d39a-493b-a4a4-1bf7eb068966
